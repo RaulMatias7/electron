@@ -1,0 +1,26 @@
+{
+  "name": "appsimples",
+  "version": "1.0.0",
+  "description": "Aplicação muito simples que roda em todas as plataformas.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RaulMatias7/electron.git"
+  },
+  "keywords": [
+    "Electron",
+    "Node.js",
+    "AppSimples",
+    "Chrome"
+  ],
+  "author": "Raúl Matias",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RaulMatias7/electron/issues"
+  },
+  "homepage": "https://github.com/RaulMatias7/electron#readme"
+  
+}
